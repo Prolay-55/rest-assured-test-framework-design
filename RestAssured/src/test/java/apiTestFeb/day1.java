@@ -25,6 +25,8 @@ public class day1 {
 		
 		Assert.assertEquals(res.getStatusCode(), 200);
 		System.out.println(res.getStatusCode());
+
+		System.out.println("hogya test");
 	}
 
 }
